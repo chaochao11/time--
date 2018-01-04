@@ -16,14 +16,3 @@ FlipClock.js can be installed in the following ways:
 
 [Download .ZIP](https://github.com/objectivehtml/FlipClock/releases)
 
----
-
-### Demo & Documentation
-
-Website and documentation at http://flipclockjs.com/
-
----
-
-### License
-
-Copyright (c) 2013 Objective HTML, LCC shared under MIT LICENSE
